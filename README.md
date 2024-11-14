@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Moeed-Kamraan
-- 👀 I’m interested in programming web developing artificial intellegence and machine learning
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on programming and artificial intelegence
+- 👋 Hi, I’m @Moeed-Kamraan.
+- 👀 I’m interested in programming, web developing, artificial intellegence and machine learning.
+- 🌱 I’m currently learning programming. 
+- 💞️ I’m looking to collaborate on programming and artificial intelegence.
 - 📫 How to reach me at moeedkamraan1123@gmail.com
 
 <!---
