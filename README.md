@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moeed-Kamraan.
+- 👋 Hi, I’m @Dar_ishfaq.
 - 👀 I’m interested in programming, web developing, artificial intellegence and machine learning.
 - 🌱 I’m currently learning programming. 
 - 💞️ I’m looking to collaborate on programming and artificial intelegence.
